@@ -1,7 +1,9 @@
 # Compute-Precision-Recall-F1Score
 
 This is a matlab implementation of computing the following validation metrics for a visual classification problem:
+
     (1) precision (2) recall (3) f1-score (4) specificity
+    
 Here, we want to mention that for each validation metric, we respectively compute its micro-based value and macro-based value. 
 
 For the dist_predict.mat file, "predict" is formed by the predicted label information of all the test samples.
